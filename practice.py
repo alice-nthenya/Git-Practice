@@ -1,5 +1,5 @@
 print("Hello World")
 print ("Alice you are becoming an expert")
 print("Python is interesting")
-print("I am learning how to push and pool")
-print("WRC 2025")
+print("Extra line of code")
+print("Data Science")
